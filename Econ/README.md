@@ -6,7 +6,7 @@
 
 ###  *祝你在这里玩的开心！*
 
-<img src="https://github.com/suveryeasy/EasyWorld/raw/master/pic/Adam Smith.jpeg" width="50%" height="50%">
+<img src="https://github.com/suveryeasy/EasyWorld/raw/master/pic/Adam Smith.jpeg" width="30%" height="30%">
 
 ### 游完须知：
 >* 本教程无法教你赚钱。如有需要请了解金融学、投资学，或者法学
